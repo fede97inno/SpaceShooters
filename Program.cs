@@ -12,7 +12,7 @@ namespace SpaceShooter
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("ehio!");
             Game.Init();
 
             Game.Play();
